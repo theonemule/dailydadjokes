@@ -12,7 +12,7 @@ while read p; do
 	if [ $x = $DIFF ];then
 		echo "$p"
 		p=${p//[$'\t\r\n']}
-		echo $(cat ./web/jokehistory.js | jq --arg jk "$p" '.history += [$jk]') > ./web/jokehistory.js
+		echo $(cat ./docs/jokehistory.js | jq --arg jk "$p" '.history += [$jk]') > ./docs/jokehistory.js
 	fi
 	
 done < general.txt
