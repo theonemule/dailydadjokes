@@ -1,6 +1,6 @@
 #!/bin/bash
 
-startDate="20210709"
+startDate="20210707"
 
 
 
