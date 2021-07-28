@@ -4,7 +4,7 @@
 
 
  body {
-	background: center / contain no-repeat linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ), url("/horse.jpg");
+	background: center / contain no-repeat linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ), url("horse.jpg");
  }
 
 /* Links */

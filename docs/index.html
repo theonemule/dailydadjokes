@@ -195,7 +195,7 @@
 	}
 	
 	async function postJoke(){
-		var jokeURL = "https://www.dailydadjokes.net/jokehistory.js"
+		var jokeURL = "jokehistory.js"
 		let response = await fetch(jokeURL);
 		text = await response.text()
 		jokeHistory = JSON.parse(text);
