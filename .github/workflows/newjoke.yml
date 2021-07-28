@@ -1,0 +1,47 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  job1:
+    name: Modifiy repository files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2.3.2
+
+      - name: Modifiy the specific files using scripts
+        run: |
+          --- shell scripts or command lines to execute ---
+# If you execute some shell scripts or command lines to modify
+# the files, use the 'run' key.
+# More details, see "https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions#jobsjob_idstepsrun"
+
+      - name: Modifiy the specific files using action
+        uses: action-owner/action-repo@ref
+# If you execute an action to modify the files, use the 'uses' key.
+# Just like as the previous step that executes the checkout action.
+# More details, see "https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions#jobsjob_idstepsuses"
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "blaize"
+          git config --global user.email "me@blaize.net"
+
+          bash dailydadjoke.sh
+
+          git add -A
+          git commit -m "New Daily Joke"
+          git push
