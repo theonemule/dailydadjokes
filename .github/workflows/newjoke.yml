@@ -26,16 +26,6 @@ jobs:
         run: |          
           bash dailydadjoke.sh
 
-# If you execute some shell scripts or command lines to modify
-# the files, use the 'run' key.
-# More details, see "https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions#jobsjob_idstepsrun"
-
-      - name: Modifiy the specific files using action
-        # uses: action-owner/action-repo@ref
-# If you execute an action to modify the files, use the 'uses' key.
-# Just like as the previous step that executes the checkout action.
-# More details, see "https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions#jobsjob_idstepsuses"
-
       - name: Commit and push changes
         run: |
           git config --global user.name "blaize"
