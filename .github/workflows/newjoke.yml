@@ -26,7 +26,7 @@ jobs:
       - name: Commit and push changes
         run: |
           git config --global user.name "blaize"
-          git config --global user.email "me@blaize.net"
+          git config --global user.email "blaize@example.com"
 
           git add -A
           git commit -m "New Daily Joke"
