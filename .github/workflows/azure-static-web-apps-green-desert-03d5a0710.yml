@@ -1,6 +1,8 @@
 name: Azure Static Web Apps CI/CD
 
 on:
+  schedule:
+    - cron:  '0 7 * * *'
   push:
     branches:
       - main
@@ -8,6 +10,7 @@ on:
     types: [opened, synchronize, reopened, closed]
     branches:
       - main
+      
 
 jobs:
   build_and_deploy_job:
