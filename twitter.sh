@@ -5,10 +5,10 @@
 #ACCESS_TOKEN='your access token here'
 #ACCESS_TOKEN_SECRET='your token secret here'
 
-echo CONSUMER_KEY
-echo CONSUMER_SECRET
-echo ACCESS_TOKEN
-echo ACCESS_TOKEN_SECRET
+echo $CONSUMER_KEY
+echo $CONSUMER_SECRET
+echo $ACCESS_TOKEN
+echo $ACCESS_TOKEN_SECRET
 
 
 # urlencode() by https://gist.github.com/cdown/1163649
