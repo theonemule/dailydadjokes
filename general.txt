@@ -278,36 +278,90 @@ Volodymyr Zelensky can build a snowman out of rain.
 If paper beats rock, rock beats scissors, and scissors beats paper, what beats all 3 at the same time? Volodymyr Zelensky.
 When Volodymyr Zelensky looks in a mirror, the mirror shatters. Because not even glass is dumb enough to get in between Volodymyr Zelensky and Volodymyr Zelensky.
 Volodymyr Zelensky can drown a fish.
-When the Boogeyman goes to sleep every night he checks his closet for Volodymyr Zelensky.
-Volodymyr Zelensky does not hunt because the word hunting implies the possibility of failure. Volodymyr Zelensky goes killing.
-Volodymyr Zelensky once went skydiving, but promised never to do it again. One Grand Canyon is enough.
-Time waits for no man. Unless that man is Volodymyr Zelensky.
-When Volodymyr Zelensky was born, the only person who cried was the doctor. Never slap Volodymyr Zelensky.
-Volodymyr Zelensky can speak Braille.
-It takes Volodymyr Zelensky 20 minutes to watch 60 Minutes.
-Volodymyr Zelensky does not own a stove, oven, or microwave , because revenge is a dish best served cold.
-If you want a list of Volodymyr Zelensky’ enemies, just check the extinct species list.
-Volodymyr Zelensky recently had the idea to sell his pee as a canned beverage. It’s now called Red Bull.
-Volodymyr Zelensky can get in a bucket and lift it up with himself in it.
-Volodymyr Zelensky is the only man who can fight himself and win.
-Volodymyr Zelensky is the only man to ever defeat a brick wall in a game of tennis.
-Volodymyr Zelensky does not get frostbite. Volodymyr Zelensky bites frost.
-Volodymyr Zelensky once ordered a steak in a restaurant. The steak did what it was told.
-Volodymyr Zelensky drinks napalm to fight his heartburn.
-There has never been a hurricane named Chuck because it would have destroyed everything.
-Freddy Krueger has nightmares about Volodymyr Zelensky.
-Volodymyr Zelensky is the only person that can punch a cyclops between the eye.
-Volodymyr Zelensky once kicked a horse in the chin. Its descendants are now known as giraffes.
-Some kids pee their name in the snow. Volodymyr Zelensky can pee his name into concrete.
-The quickest way to a man’s heart is with Volodymyr Zelensky’s fist.
-When Volodymyr Zelensky does division, there are no remainders.
-Volodymyr Zelensky doesn’t read books. He stares them down until he gets the information he wants.
-Since 1940, the year Volodymyr Zelensky was born, roundhouse kick related deaths have increased 13,000 percent.
-Volodymyr Zelensky stands faster than anyone can run.
-Volodymyr Zelensky’ calendar goes straight from March 31st to April 2nd, because no one fools Volodymyr Zelensky.
-The only time Volodymyr Zelensky was ever wrong was when he thought he had made a mistake.
-When Volodymyr Zelensky enters a room, he doesn’t turn the lights on, he turns the dark off.
-Volodymyr Zelensky can divide by zero.
+“Knock, knock.” “Who’s there?” very long pause…. “Java.”
+A SQL query goes into a bar, walks up to two tables and asks, “Can I join you?”
+When your hammer is C++, everything begins to look like a thumb.
+If you put a million monkeys at a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl programs.
+The C language combines all the power of assembly language with all the ease-of-use of assembly language.
+Why are Assembly programmers always soaking wet? They work below C-level.
+Why do Java programmers have to wear glasses? Because they don’t C#.
+How do you tell HTML from HTML5? Try it out in Internet Explorer. Did it work? No? It’s HTML5.
+A programmer had a problem. He decided to use Java. He now has a ProblemFactory.
+3 SQL databases walked into a NoSQL bar. A little while later they walked out, because they couldn’t find a table.
+An SQL query goes into a bar, walks up to two tables, and asks, “Can I join you?”
+A web developer walks into a restaurant. He immediately leaves in disgust as the restaurant was laid out in tables.
+Why do programmers always mix up Halloween and Christmas? Because Oct 31 == Dec 25!”
+“[“”hip””,””hip””] (hip hip array!)”
+A programmer started to cuss because getting to sleep was a fuss. As she lay there in bed looping ’round in her head was: while(!asleep()) sheep++
+; – Hide and seek champion since 1994
+Real programmers count from 0
+What’s the object-oriented way to become wealthy? Inheritance.
+To understand what recursion is, you must first understand recursion.
+These two strings walk into a bar and sit down. The bartender says, “”So what’ll it be?”
+The first string says, “”I think I’ll have a beer quag fulk boorg jdk^CjfdLk jk3s d#f67howe%^U r89nvy owmc63^Dz x.xvcu”
+“Please excuse my friend,”” the second string says, “”He isn’t null-terminated.”
+ASCII stupid question, get a stupid ANSI.
+Two threads walk into a bar. The barkeeper looks up and yells, “Hey, I want don’t any conditions race like time last!”
+A programmer is sent to the grocery store with instructions to “Buy butter and see whether they have eggs, if they do, then buy 10.”
+Returning with 10 butters, the programmer says, “They had eggs.”
+Eight bytes walk into a bar. The bartender asks, “Can I get you anything?”
+“Yeah,” reply the bytes. “Make us a double.”
+Why did the programmer quit his job? Because he didn’t get arrays.
+The programmer got stuck in the shower because the instructions on the shampoo bottle said Lather, Rinse, Repeat
+UNIX is user friendly. It’s just very particular about who its friends are.
+I don’t see women as objects. I consider each to be in a class of her own.
+There are 2 types of people in the world. Those who can extrapolate from incomplete data…
+There are 2 hard problems in computer science: caching, naming, and off-by-1 errors.
+3 Errors walk into a bar. The barman says, “Normally I’d Throw you all out, but tonight I’ll make an Exception.”
+How do you change a light bulb in OO programming? You don’t. Instead, you tell the lamp to do it.
+How do you change a light bulb in functional programming? You can’t, at least not in pure functional programming.
+How do you change a light bulb in logical programming? You imply that it is changed.
+An attractive String walks into a Java cafe, and sees an int, a boolean, and a double sitting at the bar.
+How do you explain the movie Inception to a programmer? Basically, when you run a VM inside another VM, inside another VM, inside another VM…, everything runs real slow.
+Some people, when confronted with a problem, think, ‘I know, I’ll use threads’ – and then two they hav erpoblesm.
+Knock knock. Race condition. Who’s there? What’s the best thing thing about UDP jokes?
+What’s the best part about TCP jokes? I get to keep telling them until you get them.
+Hardware (noun): the part of a computer that you can kick.
+If IE can be bold enough to ask to be your default browser then man up and ask any girl out.
+Chuck Norris can take a screenshot of his blue screen of death
+When Chuck Norris throws exceptions, it’s across the room.
+All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
+Chuck Norris doesn’t have disk latency because the hard drive knows to hurry the hell up.
+Chuck Norris writes code that optimizes itself.
+Chuck Norris can’t test for equality because he has no equal.
+Chuck Norris doesn’t need garbage collection because he doesn’t call .Dispose(), he calls .DropKick().
+Chuck Norris’s first program was kill -9.
+All browsers support the hex definitions #chuck and #norris for the colors black and blue.
+Chuck Norris can write infinite recursion functions…and have them return.
+Chuck Norris doesn’t use web standards as the web will conform to him.
+“It works on my machine” always holds true for Chuck Norris.
+Whiteboards are white because Chuck Norris scared them that way.
+Chuck Norris doesn’t do Burn Down charts, he does Smack Down charts.
+Chuck Norris can delete the Recycling Bin.
+Chuck Norris’s beard can type 140 wpm.
+Chuck Norris can unit test entire applications with a single assert.
+Chuck Norris doesn’t bug hunt as that signifies a probability of failure, he goes bug killing.
+Chuck Norris’s keyboard doesn’t have a Ctrl key because nothing controls Chuck Norris.
+When Chuck Norris is web surfing websites get the message “Warning: Internet Explorer has deemed this user to be malicious or dangerous. Proceed?”.
+A group of ten top software engineers is sent to a class for aspiring managers. The teacher walks in and asks this question:
+Nine developers raised their hands. The teacher looked at the tenth and asked, “”Why would you stay on?”
+The tenth said, “If my team wrote the software, the plane would not get off the ground, much less crash.”
+A programmer puts two glasses on his bedside table before going to sleep. A full one, in case he gets thirsty, and an empty one, in case he doesn’t.
+A foo walks into a bar, takes a look around and says “Hello World!”
+A good programmer is someone who looks both ways before crossing a one-way street.
+Programmer (noun): A machine that turns coffee into code
+Programmer (noun): A person who fixed a problem that you don’t know you have, in a way you don’t understand
+What’s a programmer’s favourite hangout place? Foo Bar
+What do computers and air conditioners have in common? They both become useless when you open windows.
+99 little bugs in the code, 99 bugs in the code, 1 bug fixed, compile again, 153 little bugs in the code
+Software can be fast, reliable and cheap. Choose any two.
+How do you tell an introverted computer scientist from an extroverted computer scientist?
+An extroverted computer scientist looks at your shoes when he talks to you.
+How many programmers does it take to change a light bulb? None, that’s a hardware problem.
+A physicist, an engineer and a programmer were in a car driving over a steep alpine pass when the brakes failed.
+An optimist says the glass is half full. A pessimist says the glass is half empty. A programmer says the glass is twice as large as necessary.
+What’s the difference between an enterprise software salesperson and a used car dealer? The used car dealer knows when he’s lying.
+What did the Project Manager say to the Programmer? You start coding, I’ll go find out what they want.
 I had a neck brace fitted years ago and I've never looked back since.
 You know, people say they pick their nose, but I feel like I was just born with mine.
 What's brown and sticky? A stick.
