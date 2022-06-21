@@ -26,7 +26,6 @@ var client = new Twitter({
 client.post('statuses/update', {status: tweettxt})
 	.then(function (tweet) {
 		console.log(tweet);
-		fs.writeFileSync("./tweets.json", JSON.stringify(records, null, 2));							
 	})
 	.catch(function (error) {
 		console.log(error);
