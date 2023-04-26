@@ -27,7 +27,7 @@ module.exports = async function (context, req) {
 			};
 
 			// Insert the entity into the table
-			const connectionString = process.env.AzureWebJobsStorage;
+			const connectionString = process.env.StorageAcct;
 
 			const tableClient = TableClient.fromConnectionString(connectionString, tableName);
 			await tableClient.createEntity(ratingEntity);

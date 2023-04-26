@@ -12,7 +12,7 @@ module.exports = async function (context, req) {
 
 
         // Create a TableServiceClient object to interact with the storage account
-        const connectionString = process.env.AzureWebJobsStorage;
+        const connectionString = process.env.StorageAcct;
         const tableName = 'ratings';
 
         const tableClient = TableClient.fromConnectionString(connectionString, tableName);
