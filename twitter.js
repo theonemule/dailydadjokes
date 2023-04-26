@@ -6,7 +6,7 @@ var startDate = new Date(2021,6,7);//startDate="20210707"//
 var diff = Math.floor((new Date().getTime() - startDate.getTime()) / (1000 * 3600 * 24));
 console.log(diff)
 
-const allFileContents = fs.readFileSync('./site/general.txt', 'utf-8');
+const allFileContents = fs.readFileSync('./general.txt', 'utf-8');
 var jokes = allFileContents.split(/\r?\n/)
 var joke = jokes[diff]
 
