@@ -1,0 +1,14 @@
+{
+  "$schema": "https://aka.ms/azure/static-web-apps-cli/schema",
+  "configurations": {
+    "dailydadjokes": {
+      "appLocation": "site",
+      "apiLocation": "api",
+      "outputLocation": "_site",
+      "appBuildCommand": "jekyll build",
+      "apiBuildCommand": "npm run build --if-present",
+      "run": "bundle exec jekyll serve --livereload",
+      "appDevserverUrl": "http://localhost:4000"
+    }
+  }
+}
