@@ -25,4 +25,4 @@ while read p; do
 		# echo $(cat ./docs/jokehistory.js | jq --argjson jk "$json" '.history += [$jk]') > ./docs/jokehistory.js
 	fi
 	
-done < general.txt
+done < ./site/general.txt
