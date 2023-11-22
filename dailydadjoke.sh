@@ -1,6 +1,6 @@
 #!/bin/bash
 
-startDate="20231122"
+startDate="20231121"
 
 let DIFF=$(( (`date -d "00:00" +%s` - `date -d $startDate +%s`) / (24*3600) ))
 
