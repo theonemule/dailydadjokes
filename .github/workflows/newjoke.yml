@@ -20,6 +20,8 @@ jobs:
         uses: actions/checkout@v2.3.2
 
       - name: Update the joke history JS file
+        env:
+          DADJOKECODE: ${{ secrets.DADJOKECODE }}      
         run: |          
           bash dailydadjoke.sh
 
