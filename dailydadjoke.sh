@@ -2,7 +2,7 @@
 
 echo "https://func-dadjokesaieastus2.azurewebsites.net/api/DadJokesAI_Functions?code=$DADJOKECODE"
 
-response=$(curl -s "https://func-dadjokesaieastus2.azurewebsites.net/api/DadJokesAI_Functions?code=1pmc8adzD-tDHxDwG6_0mSfMOSIsWinP5OYVDeSzPnGVAzFuikiGYw==")
+response=$(curl -s "https://func-dadjokesaieastus2.azurewebsites.net/api/DadJokesAI_Functions?code=$DADJOKECODE")
 
 echo $response
 
