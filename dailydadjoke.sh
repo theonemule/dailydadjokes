@@ -1,7 +1,5 @@
 #!/bin/bash
 
-echo "https://func-dadjokesaieastus2.azurewebsites.net/api/DadJokesAI_Functions?code=$DADJOKECODE"
-
 response=$(curl -s "https://func-dadjokesaieastus2.azurewebsites.net/api/DadJokesAI_Functions?code=$DADJOKECODE")
 
 echo $response
